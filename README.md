@@ -136,9 +136,9 @@ Built an **interactive Power BI dashboard** including:
 
 📌 *Add screenshots here for better presentation:*
 
-```md
-![Dashboard Preview](Dashboard.jpg)
-```
+
+![Dashboard Preview](dashboard.jpg)
+
 
 ##🔍 Key Insights
 
