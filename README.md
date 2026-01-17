@@ -137,10 +137,10 @@ Built an **interactive Power BI dashboard** including:
 📌 *Add screenshots here for better presentation:*
 
 ```md
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](Dashboard.jpg)
 ```
 
-🔍 Key Insights
+##🔍 Key Insights
 
 Identified high-cancellation market segments
 
@@ -150,16 +150,17 @@ Compared city vs resort hotel performance
 
 Highlighted top revenue-generating channels
 
+---
 
-🎯 Conclusion
+##🎯 Conclusion
 
 This project showcases the complete data analytics lifecycle — from raw data to business insights.
 
 It reflects strong practical skills in Python, SQL, and Power BI, aligned with real-world Data Analyst roles.
 
+---
 
-
-👤 Author
+##👤 Author
 
 Vedant Dharmale
 
